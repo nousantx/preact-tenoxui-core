@@ -1,0 +1,20 @@
+{
+  "name": "preact",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tenoxui/core": "^1.0.0-alpha.2",
+    "preact": "^10.22.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.8.2",
+    "tenoxui": "^0.11.0-alpha.9",
+    "vite": "^5.3.1"
+  }
+}
